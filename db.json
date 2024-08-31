@@ -4,49 +4,49 @@
       "id": "1",
       "Stand": "01",
       "name": "MR. PAPA",
-      "logo": "../src/img/logo_mrpapas.jpg",
+      "logo": "./img/logo_mrpapas.jpg",
       "phone": "1234567890",
       "days_open": "L-M-X-J-V-S-D",
       "schedule": "10:00 a.m - 10:00 p.m",
       "level": "1er Piso",
       "title": "Ricos Chanchos",
       "description": "Ven y disfruta de los más ricos chicharrones y sánguches tradicionales de Chimbote.",
-      "photo_menu_1": "../src/img/mrpapas_1.jpg",
-      "photo_menu_2": "../src/img/mrpapas_2.jpg",
-      "photo_menu_3": "../src/img/mrpapas_3.jpg",
-      "photo_primary": "../src/img/mrpapas_principal.jpg"
+      "photo_menu_1": "./img/mrpapas_1.jpg",
+      "photo_menu_2": "./img/mrpapas_2.jpg",
+      "photo_menu_3": "./img/mrpapas_3.jpg",
+      "photo_primary": "./img/mrpapas_principal.jpg"
     },
     {
       "id": "2",
       "Stand": "02",
       "name": "RAFFOS",
-      "logo": "../src/img/logo_raffos.jpg",
+      "logo": "./img/logo_raffos.jpg",
       "phone": "1234567890",
       "days_open": "L-M-X-J-V-S-D",
       "schedule": "10:00 a.m - 10:00 p.m",
       "level": "1er Piso",
       "title": "Buenas sazón",
       "description": "Ven y disfruta de los más ricos chicharrones y sánguches tradicionales de Chimbote.",
-      "photo_menu_1": "../src/img/raffos_1.jpg",
-      "photo_menu_2": "../src/img/raffos_2.jpg",
-      "photo_menu_3": "../src/img/raffos_3.jpg",
-      "photo_primary": "../src/img/raffos_principal.jpg"
+      "photo_menu_1/img/raffos_1.jpg",
+      "photo_menu_2/img/raffos_2.jpg",
+      "photo_menu_3/img/raffos_3.jpg",
+      "photo_primary/img/raffos_principal.jpg"
     },
     {
       "id": "3",
       "Stand": "03",
       "name": "RINCON FRANCES",
-      "logo": "../src/img/logo_rinconfrances.jpeg",
+      "logo": "./img/logo_rinconfrances.jpeg",
       "phone": "1234567890",
       "days_open": "L-M-X-J-V-S-D",
       "schedule": "10:00 a.m - 10:00 p.m",
       "level": "1er Piso",
       "title": "Ricos Chanchos",
       "description": "Ven y disfruta de los más ricos chicharrones y sánguches tradicionales de Chimbote.",
-      "photo_menu_1": "../src/img/rincon1.jpg",
-      "photo_menu_2": "../src/img/rincon2.jpg",
-      "photo_menu_3": "../src/img/rincon3.jpg",
-      "photo_primary": "../src/img/rinconfrances_principal.jpg"
+      "photo_menu_1": "./img/rincon1.jpg",
+      "photo_menu_2": "./img/rincon2.jpg",
+      "photo_menu_3": "./img/rincon3.jpg",
+      "photo_primary": "./img/rinconfrances_principal.jpg"
     },
     {
       "id": "4",
@@ -59,58 +59,58 @@
       "level": "1er Piso",
       "title": "Ricos Chanchos",
       "description": "Ven y disfruta de los más ricos chicharrones y sánguches tradicionales de Chimbote.",
-      "photo_menu_1": "../src/img/donfra 1.jpg",
-      "photo_menu_2": "../src/img/donfra 2.jpg",
-      "photo_menu_3": "../src/img/donfra 3.jpg",
-      "photo_primary": "../src/img/donfrancisco_principal.jpg"
+      "photo_menu_1": "./img/donfra 1.jpg",
+      "photo_menu_2": "./img/donfra 2.jpg",
+      "photo_menu_3": "./img/donfra 3.jpg",
+      "photo_primary": "./img/donfrancisco_principal.jpg"
     },
     {
       "id": "5",
       "Stand": "05",
       "name": "MAGGI",
-      "logo": "../src/img/logo_lacocinademaggi.jpg",
+      "logo": "./img/logo_lacocinademaggi.jpg",
       "phone": "1234567890",
       "days_open": "L-M-X-J-V-S-D",
       "schedule": "10:00 a.m - 10:00 p.m",
       "level": "1er Piso",
       "title": "Comida Criolla",
       "description": "Ven y disfruta de los más ricos chicharrones y sánguches tradicionales de Chimbote.",
-      "photo_menu_1": "../src/img/maggi_1.jpg",
-      "photo_menu_2": "../src/img/maggi_2.jpg",
-      "photo_menu_3": "../src/img/maggi_3.jpg",
-      "photo_primary": "../src/img/maggi_principal.jpg"
+      "photo_menu_1": "./img/maggi_1.jpg",
+      "photo_menu_2": "./img/maggi_2.jpg",
+      "photo_menu_3": "./img/maggi_3.jpg",
+      "photo_primary": "./img/maggi_principal.jpg"
     },
     {
       "id": "6",
       "Stand": "06",
       "name": "TULAS",
-      "logo": "../src/img/logo_tulas.jpg",
+      "logo": "./img/logo_tulas.jpg",
       "phone": "1234567890",
       "days_open": "L-M-X-J-V-S-D",
       "schedule": "10:00 a.m - 10:00 p.m",
       "level": "1er Piso",
       "title": "Ven y disfrutas",
       "description": "La Experiencia se vive Adentro 😜 Encuentranos en : Chimbote -Plaza Santander Nuevo chimbote-urb Pacifico c2-2 ica-La Moderna k1-A",
-      "photo_menu_1": "../src/img/tulas_1.jpg",
-      "photo_menu_2": "../src/img/tulas_2.jpg",
-      "photo_menu_3": "../src/img/tulas_3.jpg",
-      "photo_primary": "../src/img/tulas_principal.jpg"
+      "photo_menu_1": "./img/tulas_1.jpg",
+      "photo_menu_2": "./img/tulas_2.jpg",
+      "photo_menu_3": "./img/tulas_3.jpg",
+      "photo_primary": "./img/tulas_principal.jpg"
     },
     {
       "id": "7",
       "Stand": "07",
       "name": "BRAVAZO",
-      "logo": "../src/img/logo_bravazo.jpg",
+      "logo": "./img/logo_bravazo.jpg",
       "phone": "1234567890",
       "days_open": "L-M-X-J-V-S-D",
       "schedule": "10:00 a.m - 10:00 p.m",
       "level": "1er Piso",
       "title": "Bravazo...",
       "description": "Restaurante especializado Pollos a la brasa y broster.",
-      "photo_menu_1": "../src/img/bravazo_1.jpg",
-      "photo_menu_2": "../src/img/bravazo_2.jpg",
-      "photo_menu_3": "../src/img/bravazo_3.jpg",
-      "photo_primary": "../src/img/bravazo_principal.jpg"
+      "photo_menu_1": "./img/bravazo_1.jpg",
+      "photo_menu_2": "./img/bravazo_2.jpg",
+      "photo_menu_3": "./img/bravazo_3.jpg",
+      "photo_primary": "./img/bravazo_principal.jpg"
     },
     {
       "id": "8",
@@ -123,10 +123,10 @@
       "level": "1er Piso",
       "title": "Ricos Chanchos",
       "description": "Ven y disfruta de los más ricos chicharrones y sánguches tradicionales de Chimbote.",
-      "photo_menu_1": "../src/img/delys 1.jpg",
-      "photo_menu_2": "../src/img/delys 2.jpg",
-      "photo_menu_3": "../src/img/delys 3.jpg",
-      "photo_primary": "../src/img/delys_principal.jpg"
+      "photo_menu_1": "./img/delys 1.jpg",
+      "photo_menu_2": "./img/delys 2.jpg",
+      "photo_menu_3": "./img/delys 3.jpg",
+      "photo_primary": "./img/delys_principal.jpg"
     }
   ],
 
@@ -134,28 +134,28 @@
     {
       "id": "1",
       "title": "Evento 1",
-      "photo": "../src/img/evento_1.jpg",
+      "photo": "./img/evento_1.jpg",
       "fecha": "El 3 de agosto 2024",
       "hora": "3 p.m"
     },
     {
       "id": "2",
       "title": "Evento 2",
-      "photo": "../src/img/evento_2.jpg",
+      "photo": "./img/evento_2.jpg",
       "fecha": "El 3 de agosto 2024",
       "hora": "3 p.m"
     },
     {
       "id": "3",
       "title": "Evento 3",
-      "photo": "../src/img/evento_3.jpg",
+      "photo": "./img/evento_3.jpg",
       "fecha": "El 3 de agosto 2024",
       "hora": "3 p.m"
     },
     {
       "id": "4",
       "title": "Evento 4",
-      "photo": "../src/img/evento_4.jpg",
+      "photo": "./img/evento_4.jpg",
       "fecha": "El 3 de agosto 2024",
       "hora": "3 p.m"
     }
